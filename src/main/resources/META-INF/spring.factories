@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.fourspring.springtest.conf.Hello,\
+  com.fourspring.springtest.conf.TestAutoConfiguration
